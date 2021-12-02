@@ -1,2 +1,2 @@
 # Customer Support
-This is a very small project which simulates a CLI app for a customer support program. The user can "submit" customer support ticket requests.
+This is a very small project which simulates a command line customer support program. The user can "submit" customer support ticket requests.
